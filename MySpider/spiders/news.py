@@ -20,6 +20,7 @@ class NewsSpider(scrapy.Spider):
             url = l.xpath('./li/a/@href').extract_first()
             item['detail'] = url
             break
+        pass
         yield item
 
 
