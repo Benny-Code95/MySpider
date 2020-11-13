@@ -1,0 +1,1 @@
+2020-11-12 22:02:37 [scrapy.downloadermiddlewares.retry] ERROR: Gave up retrying <GET https://www.cnki.net/robots.txt> (failed 3 times): 500 Internal Server Error
